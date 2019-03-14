@@ -1,6 +1,33 @@
-head{
-  font: 30;
-}
-p{
-  font: 14;
+h1{
+  color: #0001ff;
+  text-align: center;
   }
+p{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  }
+em{
+  font-family: sans-serif;
+}
+body{
+  background-color: skyblue;
+}
+link{
+  font-size: 20px;
+  color: white;
+
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  color: orange;}
+a:active{
+  color: yellow;
+}
+ol{
+  font-size: 20px;
+  color: yellow;
+  font-weight: bold;
+}
